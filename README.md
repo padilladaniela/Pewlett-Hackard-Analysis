@@ -23,6 +23,3 @@ Bobby’s manager has given him two more assignments: determine the number of re
 *Only the 2 managers need to be replaced after they retire.
 
 
-## Summary:
-
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
